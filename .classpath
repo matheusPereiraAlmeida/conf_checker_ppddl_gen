@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/OpenXES.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/OpenXES-XStream.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/ProM-Framework.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/ProM-Models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/Spex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/PetriNets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Documentos/plan-based-imperative-conformance-checker/lib/javax.xml.bind.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
